@@ -1,4 +1,4 @@
-```markdown
+
 # 🚀 Stock Prediction App 📈💡
 
 ## 🌟 Overview
