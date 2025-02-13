@@ -1,17 +1,16 @@
 
-# 🚀 Stock Prediction App 📈💡
+# Stock Prediction App 📈
 
-## 🌟 Overview
+##  Overview
 The **Stock Prediction App** is a powerful web-based tool that provides real-time stock analysis and future price predictions using advanced machine learning models. Designed for traders, investors, and financial enthusiasts, this app combines live market data, news sentiment analysis, and historical trends to offer insightful forecasts. 
 
-## 🔥 Features
+##  Features
 ✅ **Real-time stock data visualization**  
 ✅ **Machine learning-based predictions**  
-✅ **Interactive charts with Plotly** 
-✅ **Live news sentiment analysis**   
+✅ **Interactive charts with Plotly**  
 ✅ **User-friendly & responsive UI**   
 ✅ **Secure & scalable backend**   
-
+✅ **Live news sentiment analysis**  
 ---
 
 ## 🛠️ Tech Stack
